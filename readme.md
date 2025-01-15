@@ -1,3 +1,3 @@
 ## Hello,git
 
-~  I am adding this from branch1
+  I am adding this from branch1
